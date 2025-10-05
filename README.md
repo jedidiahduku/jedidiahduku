@@ -3,7 +3,7 @@
 🎓 Petrochemical Engineering Student & 💻 Web Developer  
 🔬 Tech enthusiast exploring solutions for energy & petrochemicals
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
 
----
+
 
 ## 🌟 About
 
@@ -22,7 +22,7 @@ Curious builder and lifelong learner.
 I enjoy creating web applications and finding ways to use technology and AI to address challenges in the energy sector.  
 Currently diving deeper into React and Java, and always experimenting with new ideas!
 
----
+
 
 ## 📬 Let's Connect
 
@@ -31,6 +31,6 @@ Currently diving deeper into React and Java, and always experimenting with new i
 
 [![Follow Me on GitHub](https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jedidiahduku)
 
----
+
 
 ⚡ Always building, always learning!
